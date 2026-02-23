@@ -1,0 +1,4 @@
+Dataset: CIFAR-10
+Classes: airplane, automobile, bird, cat, deer,
+         dog, frog, horse, ship, truck
+Image size: 32x32 RGB
